@@ -1,0 +1,7 @@
+SP_WPCF::createMetabox(
+	$wpcp_carousel_content_source_settings,
+	array(
+		'title'        => __( 'WordPress Carousel', 'wp-carousel-free' ),
+				'title'   => __( 'Carousel Type', 'wp-carousel-free' ),
+				'options' => array(
+					'image-carousel'   => array(
